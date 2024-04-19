@@ -14,6 +14,26 @@ I'm a computer enthusiast with extensive experience in AI/ML and Security consul
 - **Tech Evangelist**: Championing the latest tools and technologies in the data science landscape.
 - **Consulting Maestro**: Guiding businesses through the maze of data-driven decision-making.
 
+## Programming Skills
+Natural Language Processing-NLTK, MLOps, Docker, Transformers, LLMs, Microsoft 365, excel, Tableau,
+Huggingface, Promote Engineering, Streamlit, Anaconda, Jupyter Notebook/lab, MATLAB, MLSecurity IBM-
+WatsonX/Bluemix Tools, IBM Datacap, Azure, AWS, Python, NodeJS, AngularJS, C, Bootstrap, bigdata, Scala,
+PySpark, Git, JavaScript, HTML, CSS, SQL, Joomla, airtable, TensorFlow, Scikit-learn, SKLearn, NumPy,
+Matplotlib, Pandas, OpenCV, Hadoop, Pygame, OpenGL, Kivy, Protools, Native Instrument, lean, GCP, AWS,
+Azure, Snowflake, CI/CD, Airflow, Orchestrations, ML validation, MLflow, CoreNLP, FastAPI, NLU, SOC,
+CRISP-DM, JIRA, OpenAI, dialogflow.
+
+## Delivery Skills
+Resource management, conflict management, conflict resolution, Risk management, Requirements
+Analysis, Software Development Life Cycle (SDLC), Agile Methodologies, Vendor Management, Project
+Delivery, Cost control, Customer handling, Account management, project management, Customer
+satisfaction, Client partner, Service delivery, resource planning.
+
+## Copyrights and Publications
+- Vulnerability Detection and Monitoring Using LLM©
+- Comparative Analysing of Diverse Architectures for Accurate Blood Cancer Cell Classification©
+- [The Shadows of Deception©](https://www.amazon.in/Shadows-Deception-Unveiling-Cyber-Realms/dp/9358478799)
+
 ## Connect with Me
 
 Let's connect and collaborate! You can reach me on:
