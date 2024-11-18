@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vishwa
+# Hi there! 👋 I'm Vishwanath Akuthota
 
 I'm a computer enthusiast with extensive experience in AI/ML and Security consulting for solving complex problems through data-driven insights. I'm passionate about leveraging data to make informed decisions and drive meaningful change.
 
